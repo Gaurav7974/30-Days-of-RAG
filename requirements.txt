@@ -1,0 +1,4 @@
+#versioning might be vary as your python environment
+#For latest use python 3.13 stable
+tiktoken>=0.7.0
+sentence-transformers>=2.6.0
