@@ -18,3 +18,16 @@ langchain-core>=0.3.0
 langchain-community>=0.3.0
 openai>=1.6.0
 chromadb>=0.5.0
+
+# LlamaIndex core and components
+llama-index>=0.10.0
+llama-index-core>=0.10.0
+llama-index-llms-openai>=0.1.0
+llama-index-embeddings-huggingface>=0.1.0
+
+# TruLens (new version)
+trulens>=1.0.0
+trulens-apps-llamaindex>=1.0.0
+trulens-providers-openai>=1.0.0
+
+# Note: OpenRouter uses OpenAI-compatible API
