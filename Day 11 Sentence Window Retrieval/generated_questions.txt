@@ -1,0 +1,15 @@
+What is Retrieval Augmented Generation?
+How does RAG combine retrieval and generation?
+What is the role of the retrieval system in RAG?
+What is the role of the generative model in RAG?
+How does RAG improve factual accuracy?
+What are the main components of a RAG system?
+How does the integration component work in RAG?
+What techniques are used for relevance determination in retrieval?
+How does RAG handle real-time information updates?
+What are the benefits of using RAG over standalone language models?
+What are the challenges of implementing RAG systems?
+How does RAG use vector embeddings?
+What is the purpose of semantic similarity measures in RAG?
+How can RAG provide more detailed answers?
+What types of applications benefit most from RAG?
