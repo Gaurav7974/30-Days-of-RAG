@@ -1,0 +1,53 @@
+# Python cache / build garbage
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+*.pkl
+*.log
+*.tmp
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE garbage
+.vscode/
+.idea/
+*.code-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+
+# LlamaIndex / RAG crap that should NOT be pushed
+sentence_index/
+storage/
+index_store/
+vector_store/
+persist_dir/
+cache/
+cache_dir/
+.cache/
+.locks/
+logs/
+
+# HuggingFace, sentence-transformers cache
+huggingface/
+huggingface_cache/
+models/
+models-*/
+transformers_cache/
+
+# Chroma / DBs
+chroma_db/
+*.db
+*.sqlite
+*.sqlite3
+
